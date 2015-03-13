@@ -1,0 +1,2 @@
+# pokusny
+prvý pokusný repozitár
